@@ -1,0 +1,14 @@
+{
+  "name": "dummy-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/freshesx/dummy-test.git",
+  "author": "zhangqing <zhangqing332@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "release": "GH_TOKEN=ac6e0f5ba73fba51f2263d5ffcbe6f54ab70da88 semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.12.1"
+  }
+}
